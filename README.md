@@ -1,6 +1,6 @@
 # Remote sensing and geostatistical analysis of select atmospheric compounds over Mérida, Yucatán State, Mexico from 2020 to 2025
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="C:\Users\HP\Pictures\case_.png" align="left" width="200px" height="200px"/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="(https://github.com/jcbw/Atmosphere_Merida_Mexico/blob/main/case_.png)" align="left" width="200px" height="200px"/>
 
 
 # <center> Aerosol and chemical compounds in the Atmosphere over Mérida, Yucatàn State, Mexico </c>
